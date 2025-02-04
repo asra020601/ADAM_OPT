@@ -9,7 +9,8 @@ Adam is a widely adopted optimization algorithm for training deep learning model
 + Clean and Documented: Code is structured with clear comments and documentation for ease of understanding and modification.
 + Installation
   + Clone the repository to your local machine:
-    ```git clone https://github.com/asra020601/ADAM_OPT.git
+    ```
+       git clone https://github.com/asra020601/ADAM_OPT.git
        cd ADAM_OPT
 
 
