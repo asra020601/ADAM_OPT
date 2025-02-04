@@ -12,8 +12,7 @@ Adam is a widely adopted optimization algorithm for training deep learning model
     ```
        git clone https://github.com/asra020601/ADAM_OPT.git
        cd ADAM_OPT
-
-
+    
 # Parameters
 The optimizer supports the following parameters:
 + lr: Learning rate.
