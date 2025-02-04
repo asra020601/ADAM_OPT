@@ -1,4 +1,3 @@
-# My ADAM_OPT Project
 This repository provides a PyTorch implementation of the Adam optimizer as described in the paper Adam: A Method for Stochastic Optimization by Kingma and Ba (2014).
 
 # Overview
@@ -19,4 +18,4 @@ eps: A small constant for numerical stability (default: 1e-8).
 weight_decay: L2 regularization term (default: 0).
 
 # References
-Adam: A Method for Stochastic Optimization by D. Kingma and J. Ba
+[Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) by D. Kingma and J. Ba
